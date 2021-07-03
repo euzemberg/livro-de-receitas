@@ -1,4 +1,4 @@
-# Strogonoff de Frango #
+# Strogonoff de Frango :chicken:  #
 
 <iframe width="547" height="320" src="https://www.youtube.com/embed/BpBEfMkcpHA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
